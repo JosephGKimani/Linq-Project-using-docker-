@@ -1,0 +1,14 @@
+C:\Users\edwar\source\repos\Linq\Linq\bin\Debug\net8.0\Linq.exe
+C:\Users\edwar\source\repos\Linq\Linq\bin\Debug\net8.0\Linq.deps.json
+C:\Users\edwar\source\repos\Linq\Linq\bin\Debug\net8.0\Linq.runtimeconfig.json
+C:\Users\edwar\source\repos\Linq\Linq\bin\Debug\net8.0\Linq.dll
+C:\Users\edwar\source\repos\Linq\Linq\bin\Debug\net8.0\Linq.pdb
+C:\Users\edwar\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.AssemblyInfoInputs.cache
+C:\Users\edwar\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.AssemblyInfo.cs
+C:\Users\edwar\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.dll
+C:\Users\edwar\source\repos\Linq\Linq\obj\Debug\net8.0\refint\Linq.dll
+C:\Users\edwar\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.pdb
+C:\Users\edwar\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.genruntimeconfig.cache
+C:\Users\edwar\source\repos\Linq\Linq\obj\Debug\net8.0\ref\Linq.dll
